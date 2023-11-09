@@ -1,1 +1,1 @@
-# Workshop-Ruby-ChatBot-
+# Création d'un ChatBot avec le Language orienté objet ChatBot
